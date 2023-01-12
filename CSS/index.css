@@ -1336,7 +1336,7 @@ body {
         font-size: 3rem
     }
 
-    #product-section .sub_section_1 h2 {
+   .our-products-heading {
         font-size: 3rem
     }
 
@@ -1378,7 +1378,7 @@ body {
         margin: auto
     }
 
-    #product-section .sub_section_1 h2 {
+    .our-products-heading {
         font-size: 2.5rem
     }
 
@@ -1396,7 +1396,7 @@ body {
         font-size: 1.8rem
     }
 
-    #product-section .sub_section_1 h2 {
+    .our-products-heading {
         font-size: 1.8rem
     }
 
