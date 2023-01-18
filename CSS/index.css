@@ -1182,6 +1182,14 @@ body {
     .slide-content {
         margin: 0 10px
     }
+    
+    .swiper-button-prev {
+        left: 18px;
+    }
+    
+    .swiper-button-next {
+        right: 18px;
+    }
 
     /* .swiper-navBtn {
         display: none
