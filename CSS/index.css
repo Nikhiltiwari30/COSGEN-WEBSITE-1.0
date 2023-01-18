@@ -1183,9 +1183,9 @@ body {
         margin: 0 10px
     }
 
-    .swiper-navBtn {
+    /* .swiper-navBtn {
         display: none
-    }
+    } */
 }
 
 @media only screen and (max-width:1024px) {
